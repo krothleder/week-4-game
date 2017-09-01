@@ -1,20 +1,20 @@
 body{
-  background-image: url("../images/background.jpg");
-  font-family: 'Cormorant Upright', serif;
+  /*background-image: url("../images/background.jpg");*/
+  font-family: 'Old Standard TT', serif;
   text-align: center;
 }
 
 .container {
-  background-color: #6ed3cf;
+  background-color: aqua;
 }
 
 #name{
   padding-top: 15px;
-  font-family: 'Cormorant Upright', serif;
+  font-family: 'Old Standard TT', serif;
 }
 .paragraph{
-  font-family: 'Cormorant Upright', serif;
-  background-color: #6ed3cf;
+  font-family: 'Old Standard TT', serif;
+  background-color: aqua;
   margin-bottom: 10px;
   font: 35px;
   color: black;
@@ -37,3 +37,4 @@ body{
 .total{
   font-size: 30px;
 }
+
